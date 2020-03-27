@@ -17,6 +17,7 @@ public class Arrays {
     public static void main(String[] args) {
         //This section has been commented out, just remove the double forward slashes to get the code to work
         //It is currently set up to work with the reading of 4 marks in for grade calculation
+        int [] numbers = {3,34,88,54,276,21,100};
 //        String [] numbers = new String [6];
 //        numbers[0]="3";
 //        numbers[1]="34";
